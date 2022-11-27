@@ -1,1 +1,1 @@
-"# Monolithic-to-Microservices" 
+A monolithic application is a single unified unit, a microservices architecture breaks it down into a collection of smaller independent units, we have depicted this by breaking down a calculator monolithic architecture into a number of microservices such as add, subtract, divide etc. These microservices communicate with each other with the help of restful APIs.
